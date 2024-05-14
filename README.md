@@ -1,4 +1,4 @@
-**SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE**
+**5.SIMULATION AND IMPLEMENTATION OF FINITE STATE MACHINE**
 
 **AIM:**
 
@@ -6,7 +6,7 @@ To simulate and synthesis finite state machine using Vivado 2023.3
 
 **APPARATUS REQUIRED:**
 
-Vivado 2023.3
+Vivado 2023.3 
 
 **PROCEDURE:**
 
